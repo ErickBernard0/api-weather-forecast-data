@@ -1,0 +1,217 @@
+datetime,tempmax,tempmin,feelslikemax,feelslikemin,humidity,moonphase,conditions,description,city,state,ingestion_date
+2025-07-04,29.3,14.2,28.5,14.2,59.4,Waxing Gibbous,Clear,Clear conditions throughout the day.,Rio Branco,AC,2025-07-04
+2025-07-05,30.9,16.2,30.1,16.2,57.8,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Rio Branco,AC,2025-07-04
+2025-07-06,33.0,16.9,32.5,16.9,53.8,Waxing Gibbous,Partially cloudy,Becoming cloudy in the afternoon.,Rio Branco,AC,2025-07-04
+2025-07-07,33.6,18.8,33.2,18.8,50.4,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Rio Branco,AC,2025-07-04
+2025-07-08,34.1,20.2,33.5,20.2,50.0,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Rio Branco,AC,2025-07-04
+2025-07-09,35.3,22.2,35.5,22.2,49.7,Waxing Gibbous,Clear,Clear conditions throughout the day.,Rio Branco,AC,2025-07-04
+2025-07-10,35.6,22.2,35.7,22.2,50.0,Full Moon,Partially cloudy,Becoming cloudy in the afternoon.,Rio Branco,AC,2025-07-04
+2025-07-11,35.0,21.9,35.5,21.9,51.8,Waning Gibbous,Partially cloudy,Clearing in the afternoon.,Rio Branco,AC,2025-07-04
+2025-07-04,26.1,24.9,26.1,24.9,71.3,Waxing Gibbous,Rain,Clear conditions throughout the day with a chance of rain throughout the day.,Maceió,AL,2025-07-04
+2025-07-05,25.7,23.7,25.7,23.7,74.2,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,Maceió,AL,2025-07-04
+2025-07-06,25.5,23.1,25.5,23.1,80.2,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain.,Maceió,AL,2025-07-04
+2025-07-07,26.1,24.3,26.1,24.3,79.3,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Maceió,AL,2025-07-04
+2025-07-08,26.0,24.4,26.0,24.4,79.5,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Maceió,AL,2025-07-04
+2025-07-09,26.5,24.6,26.5,24.6,76.4,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Maceió,AL,2025-07-04
+2025-07-10,25.9,24.5,25.9,24.5,80.8,Full Moon,"Rain, Partially cloudy",Clearing in the afternoon with a chance of rain throughout the day.,Maceió,AL,2025-07-04
+2025-07-11,25.4,24.6,25.4,24.6,80.3,Waning Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Maceió,AL,2025-07-04
+2025-07-04,26.7,24.0,26.7,24.0,85.1,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Macapá,AP,2025-07-04
+2025-07-05,27.2,23.2,29.7,23.2,85.8,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Macapá,AP,2025-07-04
+2025-07-06,28.3,24.7,31.3,24.7,80.4,Waxing Gibbous,Rain,Clear conditions throughout the day with storms possible.,Macapá,AP,2025-07-04
+2025-07-07,28.4,24.8,31.8,24.8,80.9,Waxing Gibbous,Rain,Clear conditions throughout the day with storms possible.,Macapá,AP,2025-07-04
+2025-07-08,28.0,25.3,31.3,25.3,80.8,Waxing Gibbous,Rain,Clear conditions throughout the day with storms possible.,Macapá,AP,2025-07-04
+2025-07-09,28.0,25.0,31.2,25.0,81.6,Waxing Gibbous,"Rain, Partially cloudy",Clearing in the afternoon with storms possible.,Macapá,AP,2025-07-04
+2025-07-10,27.8,24.7,31.1,24.7,83.6,Full Moon,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Macapá,AP,2025-07-04
+2025-07-11,26.6,24.7,26.6,24.7,85.4,Waning Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Macapá,AP,2025-07-04
+2025-07-04,32.3,22.2,33.4,22.2,71.7,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Manaus,AM,2025-07-04
+2025-07-05,27.6,21.0,30.7,21.0,92.6,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Manaus,AM,2025-07-04
+2025-07-06,32.7,20.7,34.9,20.7,84.1,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Manaus,AM,2025-07-04
+2025-07-07,31.5,21.0,34.5,21.0,86.7,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Manaus,AM,2025-07-04
+2025-07-08,32.5,21.7,35.3,21.7,80.5,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Manaus,AM,2025-07-04
+2025-07-09,31.0,21.6,33.7,21.6,82.6,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day with storms possible.,Manaus,AM,2025-07-04
+2025-07-10,30.6,21.5,33.6,21.5,80.1,Full Moon,"Rain, Partially cloudy",Becoming cloudy in the afternoon with storms possible.,Manaus,AM,2025-07-04
+2025-07-11,33.3,22.0,35.9,22.0,78.8,Waning Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Manaus,AM,2025-07-04
+2025-07-04,28.2,19.8,30.1,19.8,87.0,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Salvador,BA,2025-07-04
+2025-07-05,30.0,18.7,31.3,18.7,83.3,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Salvador,BA,2025-07-04
+2025-07-06,27.7,19.0,29.2,19.0,89.3,Waxing Gibbous,"Rain, Overcast",Cloudy skies throughout the day with storms possible.,Salvador,BA,2025-07-04
+2025-07-07,29.2,19.8,30.5,19.8,89.5,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with strong storms possible.,Salvador,BA,2025-07-04
+2025-07-08,28.1,18.8,28.7,18.8,81.3,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,Salvador,BA,2025-07-04
+2025-07-09,28.2,18.1,28.9,18.1,80.5,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain.,Salvador,BA,2025-07-04
+2025-07-10,28.4,18.0,29.2,18.0,83.6,Full Moon,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Salvador,BA,2025-07-04
+2025-07-11,28.6,18.3,30.5,18.3,86.8,Waning Gibbous,"Rain, Partially cloudy",Becoming cloudy in the afternoon with strong storms possible.,Salvador,BA,2025-07-04
+2025-07-04,28.3,23.0,29.9,23.0,74.8,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,Fortaleza,CE,2025-07-04
+2025-07-05,28.1,23.6,29.4,23.6,71.5,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Fortaleza,CE,2025-07-04
+2025-07-06,28.4,25.3,30.3,25.3,73.7,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,Fortaleza,CE,2025-07-04
+2025-07-07,28.2,23.8,30.4,23.8,77.4,Waxing Gibbous,Rain,Clear conditions throughout the day with a chance of rain.,Fortaleza,CE,2025-07-04
+2025-07-08,28.4,23.2,30.1,23.2,74.6,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,Fortaleza,CE,2025-07-04
+2025-07-09,28.1,23.1,30.1,23.1,78.0,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain.,Fortaleza,CE,2025-07-04
+2025-07-10,28.2,22.7,30.0,22.7,80.7,Full Moon,Rain,Clear conditions throughout the day with a chance of rain throughout the day.,Fortaleza,CE,2025-07-04
+2025-07-11,27.3,22.5,29.2,22.5,82.1,Waning Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with rain clearing later.,Fortaleza,CE,2025-07-04
+2025-07-04,24.3,14.1,24.3,14.1,48.8,Waxing Gibbous,Clear,Clear conditions throughout the day.,Brasília,DF,2025-07-04
+2025-07-05,24.7,13.8,24.7,13.8,50.5,Waxing Gibbous,Clear,Clear conditions throughout the day.,Brasília,DF,2025-07-04
+2025-07-06,26.0,15.1,26.0,15.1,44.1,Waxing Gibbous,Clear,Clear conditions throughout the day.,Brasília,DF,2025-07-04
+2025-07-07,26.3,15.8,26.3,15.8,39.4,Waxing Gibbous,Clear,Clear conditions throughout the day.,Brasília,DF,2025-07-04
+2025-07-08,25.9,14.6,25.9,14.6,42.3,Waxing Gibbous,Clear,Clear conditions throughout the day.,Brasília,DF,2025-07-04
+2025-07-09,25.5,15.8,25.5,15.8,35.5,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Brasília,DF,2025-07-04
+2025-07-10,26.1,16.2,26.1,16.2,31.2,Full Moon,Overcast,Cloudy skies throughout the day.,Brasília,DF,2025-07-04
+2025-07-11,26.4,15.5,26.4,15.5,31.8,Waning Gibbous,Partially cloudy,Partly cloudy throughout the day.,Brasília,DF,2025-07-04
+2025-07-04,23.3,19.4,23.3,19.4,77.3,Waxing Gibbous,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain.,Vitória,ES,2025-07-04
+2025-07-05,22.7,18.3,22.7,18.3,69.3,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Vitória,ES,2025-07-04
+2025-07-06,21.9,17.5,21.9,17.5,72.1,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Vitória,ES,2025-07-04
+2025-07-07,22.1,17.3,22.1,17.3,67.1,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Vitória,ES,2025-07-04
+2025-07-08,21.9,17.2,21.9,17.2,66.4,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Vitória,ES,2025-07-04
+2025-07-09,23.8,19.1,23.8,19.1,69.1,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Vitória,ES,2025-07-04
+2025-07-10,22.5,19.1,22.5,19.1,76.1,Full Moon,Partially cloudy,Clearing in the afternoon.,Vitória,ES,2025-07-04
+2025-07-11,22.9,18.8,22.9,18.8,74.3,Waning Gibbous,Partially cloudy,Partly cloudy throughout the day.,Vitória,ES,2025-07-04
+2025-07-04,28.0,14.9,26.9,14.9,45.1,Waxing Gibbous,Clear,Clear conditions throughout the day.,Goiânia,GO,2025-07-04
+2025-07-05,28.2,15.4,27.0,15.4,42.0,Waxing Gibbous,Clear,Clear conditions throughout the day.,Goiânia,GO,2025-07-04
+2025-07-06,29.9,16.0,28.2,16.0,39.4,Waxing Gibbous,Clear,Clear conditions throughout the day.,Goiânia,GO,2025-07-04
+2025-07-07,30.1,16.3,28.3,16.3,34.7,Waxing Gibbous,Clear,Clear conditions throughout the day.,Goiânia,GO,2025-07-04
+2025-07-08,30.2,16.0,28.4,16.0,34.9,Waxing Gibbous,Clear,Clear conditions throughout the day.,Goiânia,GO,2025-07-04
+2025-07-09,30.2,16.5,28.3,16.5,32.4,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Goiânia,GO,2025-07-04
+2025-07-10,29.7,16.8,27.9,16.8,28.7,Full Moon,Partially cloudy,Partly cloudy throughout the day.,Goiânia,GO,2025-07-04
+2025-07-11,29.6,16.4,27.8,16.4,26.4,Waning Gibbous,Partially cloudy,Partly cloudy throughout the day.,Goiânia,GO,2025-07-04
+2025-07-04,29.6,24.9,32.1,24.9,76.3,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,São Luís,MA,2025-07-04
+2025-07-05,28.3,25.4,30.9,25.4,75.1,Waxing Gibbous,"Rain, Partially cloudy",Becoming cloudy in the afternoon with storms possible.,São Luís,MA,2025-07-04
+2025-07-06,28.2,25.7,31.3,25.7,78.3,Waxing Gibbous,Rain,Clear conditions throughout the day with storms possible.,São Luís,MA,2025-07-04
+2025-07-07,28.7,26.0,31.6,26.0,78.3,Waxing Gibbous,Rain,Clear conditions throughout the day with storms possible.,São Luís,MA,2025-07-04
+2025-07-08,28.6,24.9,31.3,24.9,79.7,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,São Luís,MA,2025-07-04
+2025-07-09,28.4,25.2,31.2,25.2,78.7,Waxing Gibbous,Rain,Clear conditions throughout the day with storms possible.,São Luís,MA,2025-07-04
+2025-07-10,28.7,24.3,31.8,24.3,80.9,Full Moon,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,São Luís,MA,2025-07-04
+2025-07-11,27.8,24.7,30.8,24.7,82.2,Waning Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,São Luís,MA,2025-07-04
+2025-07-04,31.6,13.7,30.2,13.7,57.0,Waxing Gibbous,Clear,Clear conditions throughout the day.,Cuiabá,MT,2025-07-04
+2025-07-05,33.6,16.5,31.6,16.5,42.4,Waxing Gibbous,Clear,Clear conditions throughout the day.,Cuiabá,MT,2025-07-04
+2025-07-06,35.3,18.2,33.2,18.2,33.2,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Cuiabá,MT,2025-07-04
+2025-07-07,36.8,19.4,34.2,19.4,28.9,Waxing Gibbous,Clear,Clear conditions throughout the day.,Cuiabá,MT,2025-07-04
+2025-07-08,35.7,18.9,33.3,18.9,28.5,Waxing Gibbous,Clear,Clear conditions throughout the day.,Cuiabá,MT,2025-07-04
+2025-07-09,36.8,20.0,34.2,20.0,26.6,Waxing Gibbous,Clear,Clear conditions throughout the day.,Cuiabá,MT,2025-07-04
+2025-07-10,37.2,20.8,34.7,20.8,26.0,Full Moon,Clear,Clear conditions throughout the day.,Cuiabá,MT,2025-07-04
+2025-07-11,37.7,20.6,35.1,20.6,24.9,Waning Gibbous,Clear,Clear conditions throughout the day.,Cuiabá,MT,2025-07-04
+2025-07-04,23.5,11.4,23.5,11.4,68.2,Waxing Gibbous,Clear,Clear conditions throughout the day.,Campo Grande,MS,2025-07-04
+2025-07-05,25.4,12.5,25.4,12.5,61.0,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Campo Grande,MS,2025-07-04
+2025-07-06,27.0,13.9,26.7,13.9,52.3,Waxing Gibbous,Clear,Clear conditions throughout the day.,Campo Grande,MS,2025-07-04
+2025-07-07,28.4,15.0,27.3,15.0,47.3,Waxing Gibbous,Clear,Clear conditions throughout the day.,Campo Grande,MS,2025-07-04
+2025-07-08,27.8,15.4,26.9,15.4,47.5,Waxing Gibbous,Clear,Clear conditions throughout the day.,Campo Grande,MS,2025-07-04
+2025-07-09,28.3,15.6,27.2,15.6,42.9,Waxing Gibbous,Clear,Clear conditions throughout the day.,Campo Grande,MS,2025-07-04
+2025-07-10,28.6,15.8,27.3,15.8,40.6,Full Moon,Clear,Clear conditions throughout the day.,Campo Grande,MS,2025-07-04
+2025-07-11,29.2,15.9,27.7,15.9,40.7,Waning Gibbous,Clear,Clear conditions throughout the day.,Campo Grande,MS,2025-07-04
+2025-07-04,22.9,12.4,22.9,12.4,71.3,Waxing Gibbous,Partially cloudy,Becoming cloudy in the afternoon.,Belo Horizonte,MG,2025-07-04
+2025-07-05,23.9,11.2,23.9,11.2,59.6,Waxing Gibbous,Clear,Clear conditions throughout the day.,Belo Horizonte,MG,2025-07-04
+2025-07-06,24.3,12.1,24.3,12.1,56.3,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Belo Horizonte,MG,2025-07-04
+2025-07-07,24.0,11.2,24.0,11.2,65.2,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Belo Horizonte,MG,2025-07-04
+2025-07-08,23.4,10.4,23.4,10.4,58.6,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Belo Horizonte,MG,2025-07-04
+2025-07-09,24.6,12.0,24.6,12.0,47.0,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Belo Horizonte,MG,2025-07-04
+2025-07-10,25.7,12.5,25.7,12.5,43.5,Full Moon,Partially cloudy,Partly cloudy throughout the day.,Belo Horizonte,MG,2025-07-04
+2025-07-11,25.2,12.5,25.2,12.5,50.3,Waning Gibbous,Clear,Clear conditions throughout the day.,Belo Horizonte,MG,2025-07-04
+2025-07-04,30.8,22.5,35.1,22.5,84.3,Waxing Gibbous,"Rain, Partially cloudy",Clearing in the afternoon with storms possible.,Belém,PA,2025-07-04
+2025-07-05,31.3,21.7,34.4,21.7,85.3,Waxing Gibbous,"Rain, Partially cloudy",Becoming cloudy in the afternoon with storms possible.,Belém,PA,2025-07-04
+2025-07-06,31.9,21.8,34.4,21.8,86.6,Waxing Gibbous,"Rain, Partially cloudy",Becoming cloudy in the afternoon with storms possible.,Belém,PA,2025-07-04
+2025-07-07,32.8,21.3,35.1,21.3,87.4,Waxing Gibbous,"Rain, Partially cloudy",Becoming cloudy in the afternoon with storms possible.,Belém,PA,2025-07-04
+2025-07-08,30.4,21.6,34.2,21.6,91.1,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with strong storms possible.,Belém,PA,2025-07-04
+2025-07-09,30.1,22.0,33.0,22.0,88.0,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Belém,PA,2025-07-04
+2025-07-10,29.6,21.6,32.6,21.6,89.2,Full Moon,"Rain, Partially cloudy",Becoming cloudy in the afternoon with storms possible.,Belém,PA,2025-07-04
+2025-07-11,29.4,22.2,31.9,22.2,91.2,Waning Gibbous,"Rain, Overcast",Cloudy skies throughout the day with storms possible.,Belém,PA,2025-07-04
+2025-07-04,26.6,25.0,26.6,25.0,72.1,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,João Pessoa,PB,2025-07-04
+2025-07-05,26.6,23.7,26.6,23.7,77.1,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,João Pessoa,PB,2025-07-04
+2025-07-06,25.9,23.9,25.9,23.9,83.0,Waxing Gibbous,Rain,Clear conditions throughout the day with a chance of rain.,João Pessoa,PB,2025-07-04
+2025-07-07,25.4,24.0,25.4,24.0,83.2,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,João Pessoa,PB,2025-07-04
+2025-07-08,25.9,24.2,25.9,24.2,82.9,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,João Pessoa,PB,2025-07-04
+2025-07-09,26.4,24.5,26.4,24.5,82.8,Waxing Gibbous,"Rain, Partially cloudy",Clearing in the afternoon with a chance of rain throughout the day.,João Pessoa,PB,2025-07-04
+2025-07-10,26.4,24.4,26.4,24.4,81.3,Full Moon,Rain,Clear conditions throughout the day with a chance of rain throughout the day.,João Pessoa,PB,2025-07-04
+2025-07-11,26.8,24.9,28.6,24.9,76.7,Waning Gibbous,Rain,Clear conditions throughout the day with a chance of rain.,João Pessoa,PB,2025-07-04
+2025-07-04,13.5,8.6,13.5,7.9,87.2,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Curitiba,PR,2025-07-04
+2025-07-05,18.2,9.8,18.2,9.1,78.5,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Curitiba,PR,2025-07-04
+2025-07-06,16.6,10.1,16.6,10.1,80.5,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Curitiba,PR,2025-07-04
+2025-07-07,18.5,10.7,18.5,10.7,76.7,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Curitiba,PR,2025-07-04
+2025-07-08,20.5,8.8,20.5,8.8,73.6,Waxing Gibbous,Clear,Clear conditions throughout the day.,Curitiba,PR,2025-07-04
+2025-07-09,21.0,11.0,21.0,11.0,74.8,Waxing Gibbous,Clear,Clear conditions throughout the day.,Curitiba,PR,2025-07-04
+2025-07-10,19.9,11.2,19.9,11.2,76.5,Full Moon,Partially cloudy,Partly cloudy throughout the day.,Curitiba,PR,2025-07-04
+2025-07-11,18.6,9.6,18.6,9.6,77.5,Waning Gibbous,Partially cloudy,Partly cloudy throughout the day.,Curitiba,PR,2025-07-04
+2025-07-04,26.6,25.0,26.6,25.0,69.2,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with early morning rain.,Recife,PE,2025-07-04
+2025-07-05,26.7,25.5,26.7,25.5,71.8,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain.,Recife,PE,2025-07-04
+2025-07-06,25.7,24.5,25.7,24.5,80.4,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain.,Recife,PE,2025-07-04
+2025-07-07,26.3,24.0,26.3,24.0,79.8,Waxing Gibbous,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,Recife,PE,2025-07-04
+2025-07-08,26.0,25.0,26.0,25.0,80.5,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Recife,PE,2025-07-04
+2025-07-09,26.4,25.0,26.4,25.0,80.9,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Recife,PE,2025-07-04
+2025-07-10,26.3,25.2,26.3,25.2,79.9,Full Moon,"Rain, Partially cloudy",Clearing in the afternoon with a chance of rain throughout the day.,Recife,PE,2025-07-04
+2025-07-11,26.6,25.9,26.6,25.9,74.4,Waning Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Recife,PE,2025-07-04
+2025-07-04,35.6,20.6,34.5,20.6,43.5,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Teresina,PI,2025-07-04
+2025-07-05,35.6,21.5,34.5,21.5,46.5,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Teresina,PI,2025-07-04
+2025-07-06,35.9,21.5,34.8,21.5,55.1,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Teresina,PI,2025-07-04
+2025-07-07,36.1,20.8,35.5,20.8,62.2,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Teresina,PI,2025-07-04
+2025-07-08,35.1,22.2,34.7,22.2,58.3,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Teresina,PI,2025-07-04
+2025-07-09,34.1,22.3,34.3,22.3,60.6,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Teresina,PI,2025-07-04
+2025-07-10,28.6,21.8,29.5,21.8,76.7,Full Moon,Partially cloudy,Partly cloudy throughout the day.,Teresina,PI,2025-07-04
+2025-07-11,32.4,21.1,33.5,21.1,68.4,Waning Gibbous,Partially cloudy,Partly cloudy throughout the day.,Teresina,PI,2025-07-04
+2025-07-04,18.9,16.9,18.9,16.9,85.3,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Rio de Janeiro,RJ,2025-07-04
+2025-07-05,20.4,15.3,20.4,15.3,76.9,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Rio de Janeiro,RJ,2025-07-04
+2025-07-06,19.7,16.0,19.7,16.0,75.6,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Rio de Janeiro,RJ,2025-07-04
+2025-07-07,20.8,15.8,20.8,15.8,71.9,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Rio de Janeiro,RJ,2025-07-04
+2025-07-08,22.2,15.3,22.2,15.3,64.6,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Rio de Janeiro,RJ,2025-07-04
+2025-07-09,21.3,17.5,21.3,17.5,68.7,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Rio de Janeiro,RJ,2025-07-04
+2025-07-10,20.5,16.9,20.5,16.9,81.3,Full Moon,Clear,Clear conditions throughout the day.,Rio de Janeiro,RJ,2025-07-04
+2025-07-11,21.4,18.1,21.4,18.1,78.4,Waning Gibbous,Partially cloudy,Becoming cloudy in the afternoon.,Rio de Janeiro,RJ,2025-07-04
+2025-07-04,28.2,21.5,29.4,21.5,78.4,Waxing Gibbous,"Rain, Partially cloudy",Becoming cloudy in the afternoon with early morning rain.,Natal,RN,2025-07-04
+2025-07-05,28.3,20.7,30.2,20.7,79.7,Waxing Gibbous,Partially cloudy,Becoming cloudy in the afternoon.,Natal,RN,2025-07-04
+2025-07-06,28.7,21.6,30.7,21.6,80.0,Waxing Gibbous,Rain,Clear conditions throughout the day with a chance of rain.,Natal,RN,2025-07-04
+2025-07-07,28.1,21.4,30.3,21.4,84.5,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with rain in the morning and afternoon.,Natal,RN,2025-07-04
+2025-07-08,27.4,21.8,29.5,21.8,86.3,Waxing Gibbous,"Rain, Partially cloudy",Clearing in the afternoon with a chance of rain.,Natal,RN,2025-07-04
+2025-07-09,27.4,21.7,29.4,21.7,86.0,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Natal,RN,2025-07-04
+2025-07-10,26.9,21.6,29.0,21.6,85.4,Full Moon,"Rain, Partially cloudy",Becoming cloudy in the afternoon with a chance of rain throughout the day.,Natal,RN,2025-07-04
+2025-07-11,28.6,22.5,30.0,22.5,78.9,Waning Gibbous,Rain,Clear conditions throughout the day with rain clearing later.,Natal,RN,2025-07-04
+2025-07-04,18.3,8.4,18.3,8.3,72.0,Waxing Gibbous,Partially cloudy,Becoming cloudy in the afternoon.,Porto Alegre,RS,2025-07-04
+2025-07-05,18.0,9.8,18.0,9.4,78.8,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Porto Alegre,RS,2025-07-04
+2025-07-06,19.1,9.9,19.1,9.6,78.7,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Porto Alegre,RS,2025-07-04
+2025-07-07,20.8,10.7,20.8,10.7,74.7,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Porto Alegre,RS,2025-07-04
+2025-07-08,19.6,12.1,19.6,12.1,83.1,Waxing Gibbous,Clear,Clear conditions throughout the day.,Porto Alegre,RS,2025-07-04
+2025-07-09,17.6,11.2,17.6,11.2,79.3,Waxing Gibbous,Partially cloudy,Becoming cloudy in the afternoon.,Porto Alegre,RS,2025-07-04
+2025-07-10,17.9,10.1,17.9,10.1,73.9,Full Moon,Partially cloudy,Partly cloudy throughout the day.,Porto Alegre,RS,2025-07-04
+2025-07-11,19.5,10.6,19.5,10.6,79.0,Waning Gibbous,Partially cloudy,Partly cloudy throughout the day.,Porto Alegre,RS,2025-07-04
+2025-07-04,31.7,17.0,31.2,17.0,62.5,Waxing Gibbous,Clear,Clear conditions throughout the day.,Porto Velho,RO,2025-07-04
+2025-07-05,33.4,18.5,33.3,18.5,60.4,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Porto Velho,RO,2025-07-04
+2025-07-06,34.3,19.6,34.3,19.6,58.2,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Porto Velho,RO,2025-07-04
+2025-07-07,34.1,21.3,34.0,21.3,54.0,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Porto Velho,RO,2025-07-04
+2025-07-08,34.7,21.4,34.1,21.4,55.8,Waxing Gibbous,Overcast,Cloudy skies throughout the day.,Porto Velho,RO,2025-07-04
+2025-07-09,35.2,21.4,34.9,21.4,52.6,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Porto Velho,RO,2025-07-04
+2025-07-10,36.3,22.5,36.8,22.5,55.7,Full Moon,Partially cloudy,Partly cloudy throughout the day.,Porto Velho,RO,2025-07-04
+2025-07-11,35.7,22.1,37.0,22.1,65.7,Waning Gibbous,Partially cloudy,Partly cloudy throughout the day.,Porto Velho,RO,2025-07-04
+2025-07-04,29.2,21.8,32.1,21.8,83.1,Waxing Gibbous,"Rain, Partially cloudy",Clearing in the afternoon with storms possible.,Boa Vista,RR,2025-07-04
+2025-07-05,26.5,21.7,26.5,21.7,88.2,Waxing Gibbous,"Rain, Overcast",Cloudy skies throughout the day with a chance of rain throughout the day.,Boa Vista,RR,2025-07-04
+2025-07-06,29.4,21.1,32.1,21.1,83.9,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Boa Vista,RR,2025-07-04
+2025-07-07,26.4,22.4,26.4,22.4,88.3,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Boa Vista,RR,2025-07-04
+2025-07-08,29.2,21.9,32.3,21.9,82.9,Waxing Gibbous,"Rain, Partially cloudy",Clearing in the afternoon with storms possible.,Boa Vista,RR,2025-07-04
+2025-07-09,30.4,22.1,33.6,22.1,81.0,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Boa Vista,RR,2025-07-04
+2025-07-10,30.1,22.2,33.5,22.2,82.1,Full Moon,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Boa Vista,RR,2025-07-04
+2025-07-11,31.1,23.2,34.2,23.2,75.8,Waning Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with storms possible.,Boa Vista,RR,2025-07-04
+2025-07-04,18.0,11.1,18.0,11.1,80.6,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Florianópolis,SC,2025-07-04
+2025-07-05,19.6,12.8,19.6,12.8,82.5,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Florianópolis,SC,2025-07-04
+2025-07-06,18.6,11.9,18.6,11.9,81.9,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Florianópolis,SC,2025-07-04
+2025-07-07,19.9,13.3,19.9,13.3,82.1,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Florianópolis,SC,2025-07-04
+2025-07-08,20.2,13.8,20.2,13.8,84.1,Waxing Gibbous,Clear,Clear conditions throughout the day.,Florianópolis,SC,2025-07-04
+2025-07-09,18.6,15.6,18.6,15.6,84.5,Waxing Gibbous,Overcast,Cloudy skies throughout the day.,Florianópolis,SC,2025-07-04
+2025-07-10,19.4,14.6,19.4,14.6,84.8,Full Moon,Partially cloudy,Clearing in the afternoon.,Florianópolis,SC,2025-07-04
+2025-07-11,20.2,13.7,20.2,13.7,81.7,Waning Gibbous,Partially cloudy,Partly cloudy throughout the day.,Florianópolis,SC,2025-07-04
+2025-07-04,17.4,11.8,17.4,11.8,78.7,Waxing Gibbous,"Rain, Partially cloudy",Clearing in the afternoon with early morning rain.,São Paulo,SP,2025-07-04
+2025-07-05,20.1,11.7,20.1,11.7,73.2,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,São Paulo,SP,2025-07-04
+2025-07-06,19.4,12.8,19.4,12.8,74.6,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,São Paulo,SP,2025-07-04
+2025-07-07,20.5,10.9,20.5,10.9,72.6,Waxing Gibbous,Clear,Clear conditions throughout the day.,São Paulo,SP,2025-07-04
+2025-07-08,22.7,11.5,22.7,11.5,62.5,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,São Paulo,SP,2025-07-04
+2025-07-09,22.1,13.1,22.1,13.1,60.5,Waxing Gibbous,Clear,Clear conditions throughout the day.,São Paulo,SP,2025-07-04
+2025-07-10,21.8,11.8,21.8,11.8,73.9,Full Moon,Clear,Clear conditions throughout the day.,São Paulo,SP,2025-07-04
+2025-07-11,21.7,12.8,21.7,12.8,74.1,Waning Gibbous,Partially cloudy,Partly cloudy throughout the day.,São Paulo,SP,2025-07-04
+2025-07-04,26.3,24.1,26.3,24.1,72.0,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with rain.,Aracaju,SE,2025-07-04
+2025-07-05,26.4,24.3,26.4,24.3,68.0,Waxing Gibbous,Rain,Clear conditions throughout the day with a chance of rain.,Aracaju,SE,2025-07-04
+2025-07-06,25.7,21.8,25.7,21.8,80.4,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain.,Aracaju,SE,2025-07-04
+2025-07-07,25.9,23.9,25.9,23.9,79.8,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Aracaju,SE,2025-07-04
+2025-07-08,25.4,24.0,25.4,24.0,80.2,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Aracaju,SE,2025-07-04
+2025-07-09,26.0,23.8,26.0,23.8,79.0,Waxing Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Aracaju,SE,2025-07-04
+2025-07-10,25.6,24.3,25.6,24.3,82.4,Full Moon,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Aracaju,SE,2025-07-04
+2025-07-11,25.4,24.2,25.4,24.2,79.5,Waning Gibbous,"Rain, Partially cloudy",Partly cloudy throughout the day with a chance of rain throughout the day.,Aracaju,SE,2025-07-04
+2025-07-04,33.5,20.5,31.5,20.5,34.6,Waxing Gibbous,Clear,Clear conditions throughout the day.,Palmas,TO,2025-07-04
+2025-07-05,32.8,20.1,31.1,20.1,36.1,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Palmas,TO,2025-07-04
+2025-07-06,33.7,21.2,32.1,21.2,36.0,Waxing Gibbous,Partially cloudy,Partly cloudy throughout the day.,Palmas,TO,2025-07-04
+2025-07-07,34.4,22.0,32.8,22.0,33.8,Waxing Gibbous,Clear,Clear conditions throughout the day.,Palmas,TO,2025-07-04
+2025-07-08,34.0,23.5,32.6,23.5,35.9,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Palmas,TO,2025-07-04
+2025-07-09,34.3,24.7,32.9,24.7,34.1,Waxing Gibbous,Partially cloudy,Clearing in the afternoon.,Palmas,TO,2025-07-04
+2025-07-10,34.7,23.2,33.2,23.2,34.5,Full Moon,Partially cloudy,Partly cloudy throughout the day.,Palmas,TO,2025-07-04
+2025-07-11,34.4,22.7,33.1,22.7,35.5,Waning Gibbous,Partially cloudy,Becoming cloudy in the afternoon.,Palmas,TO,2025-07-04
