@@ -2,8 +2,6 @@ from src.extractor import get_data
 from src.utils import capitals_brazil
 from src.database import get_engine, save_dataframe
 import pandas as pd
-import os
-from datetime import datetime
 
 def main():
     dfs = []
